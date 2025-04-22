@@ -37,8 +37,3 @@ Assem2 : UI version(프로젝트 2) : simulator 개발
 
 <hr>
 
-<h3>제출 보고서</h3>
-➡️[[219]프로젝트1b_송하림_20221848.pdf
-
-(https://github.com/user-attachments/files/19847378/219.1b_._20221848.pdf)
-
