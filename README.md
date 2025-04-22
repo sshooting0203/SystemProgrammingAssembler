@@ -51,8 +51,3 @@ Assem1에서 구현한 어셈블러의 Simulator 개발
 
 난관이 많았지만 그만큼 좋은 경험이었다고 생각한다.
 
-<h3>제출 보고서</h3>
-
-[[219]프로젝트2_송하림_20221848.pdf]
-
-(https://github.com/user-attachments/files/19847684/219.2_._20221848.pdf)
